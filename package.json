@@ -1,0 +1,11 @@
+{
+  "name": "net.mushus.bms-parser",
+  "displayName": "BMS Parser",
+  "description": "BMS parser written in C#",
+  "version": "0.1.0",
+  "unity": "2017.1",
+  "repository": "git@github.com:Mushus/bms-parser.git",
+  "author": "Mushus <6138982+Mushus@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}

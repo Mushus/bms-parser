@@ -2,6 +2,20 @@
 
 BMS parser written in C#
 
+## Install
+
+### Unity
+
+Follow the example below to add it to the `Packages/manifest.json` file.
+
+```manifest.json
+{
+  "dependencies": {
+    "net.mushus.bms-parser": "git+ssh://git@github.com:Mushus/bms-parser.git#master"
+  }
+}
+```
+
 ## Usage
 
 ```
